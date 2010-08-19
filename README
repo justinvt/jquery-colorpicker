@@ -11,7 +11,7 @@ To use the plugin, include the given javascript and css in the document HEAD, an
 		<script type='text/javascript'>
 		
 			$(document).ready(function(){
-				$(".pal").colorPicker()
+				$("#where-I-want-my-colorpicker").colorPicker()
 			})
 			
 		</script>
